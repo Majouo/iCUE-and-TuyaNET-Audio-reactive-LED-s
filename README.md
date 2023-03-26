@@ -8,5 +8,5 @@ https://github.com/ClusterM/tuyanet/ .NET interface for Tuya Devices
 
 https://github.com/ChromaControl/CUESDK.NET .NET wrapper for CUE SDK
 
-https://github.com/naudio/NAudio Easy audio library
+https://github.com/naudio/NAudio Audio library
 
